@@ -1,5 +1,5 @@
 - 👋 Olá, aqui no github me chamo @deisecodes, mas pode me chamar de Deise!
-- 👀 Gosto de sempre estar aprendendo alguma coisa, não importa o assunto. 
+- 👀 Meu foco são projetos Front-End e Webdesign.
 - 🌱 No momento, estou aprendendo mais sobre Javascript e React.js
 
 <!---
